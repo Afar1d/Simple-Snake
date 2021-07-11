@@ -1,0 +1,29 @@
+simple snake 
+
+for main function 
+
+void Setup();
+void Draw();
+void Input();
+- void Logic();
+
+
+-- functoin rand() for randum number from 1 t0 10
+   **************
+-- datatype enum 
+//Enumeration is a user defined datatype in C/C++ language. It is used to assign names to the integral 
+
+constants which makes a program easy to read and maintain. The keyword “enum” is used to declare an enumeration.
+
+The following is the syntax of enums.
+
+enum enum_name{const1, const2, ....... };
+
+*****************
+  Draw()
+//remember the function system("cls")
+  
+   to clear the screen
+******************************
+tail
+//
